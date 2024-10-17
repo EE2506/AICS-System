@@ -1,0 +1,2 @@
+<button wire:click="logout" class="btn btn-danger btn" style="cursor: pointer">Logout</button>
+<?php /**PATH C:\xampp\htdocs\REPORTING_SYSTEM_V4 - test_new\resources\views/livewire/user/logout.blade.php ENDPATH**/ ?>
