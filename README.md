@@ -8,7 +8,7 @@
 </p>
 
 ## About Laravel
-<p align="center"> "AICS - Assistance to Individuals in Crisis Situation </p>
+<h1 align="center"> AICS - Assistance to Individuals in Crisis Situation </h1>
 
 
 Credentials 
